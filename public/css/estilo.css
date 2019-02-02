@@ -1,0 +1,114 @@
+@font-face{
+	font-family: "gill";
+	src: url('../fonts/gill.ttf') format("TrueType");
+}
+
+body{
+	font-family: gill;
+}
+
+.logo{
+	width: 250px;
+	margin: 10px;
+}
+
+.menu{
+	background-color: #0B5A92;
+	padding: 0px;
+	position: sticky;
+	top: 0px;
+	z-index: 9999;
+}
+
+@media screen and (max-width: 700px){
+	.menu{
+		position: static;
+	}
+}
+
+.menu a {
+	color: white;
+}
+
+.menu li:hover{
+	background-color: rgba(250,128,38,0.9);
+	transition: 0.5s;
+}
+
+.banner{
+	background-image: url(../imagem/petrolina.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.conteudo-banner{
+	background-color: rgba(0,0,0,0.8);
+	height: 100%;
+	color: white;
+	text-align: justify;
+	
+}
+
+.botao-ini:hover{
+	background-color: rgba(250,128,38,0.9);
+	color:white;
+}
+
+.servicos{
+	padding: 5px;
+	color: #0B5A92;
+}
+
+.img-servico{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	border: 5px solid rgba(250,128,38,0.9);
+	overflow:hidden;
+	margin:  auto;
+	position: relative;
+}
+.img-servico:hover{
+	border-color: #0B5A92;
+	transition: 0.5s;
+}
+
+.img-servico:hover img{
+	right:  50%;
+	transition: 2.0s
+}
+
+.img-servico img{
+	transition: 2s;
+	position: relative;
+	right:  25%;
+	height: 100%;
+}
+
+.fotos{
+	background: #0B5A92;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+.fotos .galeria{
+	background: white;
+	color: black;
+
+}
+
+.contato{
+	text-align: center;
+	color:  #0B5A92;
+	padding: 10px;
+}
+
+
+
+.rodape{
+	background-color: #0B5A92;
+	padding: 5px;
+	color:white;
+}
