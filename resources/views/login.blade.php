@@ -12,13 +12,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="cache-control"   content="no-cache" />
 	<meta http-equiv="pragma" content="no-cache" /> 
-	<link rel="stylesheet" href="/bs/css/bootstrap.min.css">
-	<script src="/bs/js/bootstrap.min.js"></script>
-	<script src="/bs/js/bootstrap.js"></script>
-	<script src="/js/jquery.min.js"></script>
-	<script src="/js/popper.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/estilo.css">
+	<link rel="stylesheet" href="bs/css/bootstrap.min.css">
+	<script src="bs/js/bootstrap.min.js"></script>
+	<script src="bs/js/bootstrap.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link href="open-iconic/font/css/open-iconic.css" rel="stylesheet">
 </head>
 <body>
 	<header id="home">
