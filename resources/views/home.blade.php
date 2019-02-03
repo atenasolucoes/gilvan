@@ -292,27 +292,13 @@ O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qual
 				<div class="carousel-item active">
 					<div class="row" >
 						<div class="galeria col-sm">
-							<img src="storage/galeria/1.jpg" alt="viagens">
+							<img src="galeria/1.jpg" alt="viagens">
 						</div>
 						<div class="galeria col-sm">
-							<img src="storage/galeria/2.jpg" alt="viagens">
+							<img src="galeria/2.jpg" alt="viagens">
 						</div>
 						<div class="galeria col-sm">
-							<img src="storage/galeria/3.jpg" alt="viagens">
-						</div>
-
-					</div>
-				</div>
-				<div class="carousel-item">
-					<div class="row" >
-						<div class="galeria col-sm">
-							<img src="storage/galeria/4.jpg" alt="viagens">
-						</div>
-						<div class="galeria col-sm">
-							<img src="storage/galeria/5.jpg" alt="viagens">
-						</div>
-						<div class="galeria col-sm">
-							<img src="storage/galeria/6.jpg" alt="viagens">
+							<img src="galeria/3.jpg" alt="viagens">
 						</div>
 
 					</div>
@@ -320,13 +306,27 @@ O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qual
 				<div class="carousel-item">
 					<div class="row" >
 						<div class="galeria col-sm">
-							<img src="storage/galeria/7.jpg" alt="viagens">
+							<img src="galeria/4.jpg" alt="viagens">
 						</div>
 						<div class="galeria col-sm">
-							<img src="storage/galeria/8.jpg" alt="viagens">
+							<img src="galeria/5.jpg" alt="viagens">
 						</div>
 						<div class="galeria col-sm">
-							<img src="storage/galeria/9.jpg" alt="viagens">
+							<img src="galeria/6.jpg" alt="viagens">
+						</div>
+
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="row" >
+						<div class="galeria col-sm">
+							<img src="galeria/7.jpg" alt="viagens">
+						</div>
+						<div class="galeria col-sm">
+							<img src="galeria/8.jpg" alt="viagens">
+						</div>
+						<div class="galeria col-sm">
+							<img src="galeria/9.jpg" alt="viagens">
 						</div>
 
 					</div>
