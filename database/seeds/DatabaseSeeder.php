@@ -12,10 +12,10 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
         // $this->call(UsersTableSeeder::class);
-        DB::table('admins')->insert([
-           'name' => 'Herbet Junior',
-            'email' => 'herbet@herbet',
-            'password' => Hash::make('herbetjr'),
+        DB::table('users')->insert([
+           'name' => 'Gilvan Turismo',
+            'email' => 'gilvanturismopetrolina@gmail.com',
+            'password' => Hash::make('Oliveirasantos77'),
         ]);
     }
 }

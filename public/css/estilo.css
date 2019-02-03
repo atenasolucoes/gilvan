@@ -68,10 +68,13 @@ body{
 	overflow:hidden;
 	margin:  auto;
 	position: relative;
+
 }
 .img-servico:hover{
 	border-color: #0B5A92;
 	transition: 0.5s;
+	cursor: pointer;
+
 }
 
 .img-servico:hover img{

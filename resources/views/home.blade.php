@@ -126,31 +126,31 @@
 		<div class="container" style="text-align: justify;">
 			<p>A Gilvan Tur possui um amplo serviço de traslados, englobando os principais meios de transporte, para assegurar que todos os seus clientes cheguem aonde querem, na hora em que precisam.
 				Com uma operação logística detalhada, o serviço é oferecido na modalidade regular ou privativa, com comodidade e segurança.
-			Frota própria com diversos veículos, entre carros, vans, doblôs, ônibus e micro-ônibus.  Entre em contato conosco e viaje com quem tem tradição em boas vindas. </p>
+			Gilvan Tur atua com locação de veículos, entre eles carros, vans, doblôs, ônibus e micro-ônibus. Atendemos clientes e localidades em diversos estados. Pernambuco: Petrolina, Ouricuri, Salgueiro, Araripina, Trindade. Bahia: Juazeiro, Semhor do Bonfim, Casa Nova, Sobradinho, Remanso, Curaçá etc. Piauí: São Raimundo Nonato, Outras localidades.  Entre em contato conosco e viaje com quem tem tradição em boas vindas. </p>
 		</div>
 		
 		<div class="row" style="margin: 0 auto;">
 
 			<div class="col-sm tipo-servico"  >
-				<div class="img-servico" >
+				<div class="img-servico" data-toggle="modal" data-target="#viagens" >
 					<img src="imagem/servicos/turismo.jpg" alt="Turismo">
 				</div>
-				<p>Turismo</p>
+				<p>Viagens e Turismo</p>
 				
 			</div>
-			<div class="col-sm tipo-servico"  >
+			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#transfer" >
 				<div class="img-servico" >
 					<img src="imagem/servicos/transfer.jpg" alt="Transfer - Translado">
 				</div>
 				<p>Transfer</p>
 			</div>
-			<div class="col-sm tipo-servico"  >
+			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#eventos"  >
 				<div class="img-servico" >
-					<img src="imagem/servicos/eventos.jpg" alt="Eventos">
+					<img src="imagem/servicos/passeios.jpg" alt="Eventos">
 				</div>
-				<p>Eventos</p>
+				<p>Eventos e Passeios</p>
 			</div>
-			<div class="col-sm tipo-servico"  >
+		<!--	<div class="col-sm tipo-servico"  >
 				<div class="img-servico" >
 					<img src="imagem/servicos/passeios.jpg" alt="passeios">
 				</div>
@@ -161,6 +161,87 @@
 					<img src="imagem/servicos/viagens.jpg" alt="viagens">
 				</div>
 				<p>Viagens</p>
+			</div>-->
+		</div>
+
+		<div class="modal fade" id="viagens" style="z-index: 9999;">
+			<div class="modal-dialog modal-lg" >
+				<div class="modal-content" style="">
+
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">Viagens e Turismo</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+
+					<!-- Modal body -->
+					<div class="modal-body">
+						
+						<p>
+						Disponibilizamos logística na organização de viagens a partir de melhores preços e lugares turísticos entre as localidades de Pernambuco e Bahia.</p>
+					</div>
+
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="transfer" style="z-index: 9999;">
+			<div class="modal-dialog modal-lg" >
+				<div class="modal-content" style="">
+
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">Tranfer</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+
+					<!-- Modal body -->
+					<div class="modal-body">
+					
+						<p>
+						Nossos serviços se destacam pelo compromisso e pontualidade em oferecer segurança para os clientes. Nossos veículos são totalmente climatizados e em perfeito estado para transportar todos os passageiros com conforto, na qual, são conduzidos por motoristas com experiência e devidamente uniformizados a desempenhar um melhor atendimento possível.
+						<br><br>
+
+Transfer local: translado para hotel, aeroporto, Shopping, restaurantes e bares.</p>
+					</div>
+
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="eventos" style="z-index: 9999;">
+			<div class="modal-dialog modal-lg" >
+				<div class="modal-content" style="">
+
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">Tranfer</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+
+					<!-- Modal body -->
+					<div class="modal-body">
+					
+						<p>
+						O serviço Gilvan tur atua com um sistema informatizado, atuamos no desenvolvimento de Logistica de locação de veículos. Serviços especializados em eventos de shows Petrolina, Juazeiro e cidades próximas,passeios nas vinícolas no Vale do São Francisco, no Rio das pedrinhas, rodeadouro etc, eventos particulares. 
+<br><br>
+O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qualquer encontro especializado através de uma análise de viabilidade do evento, de forma a oferecer um preço justo que atenda todas as demandas dentro dos serviços que oferecemos.</p>
+					</div>
+
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+					</div>
+
+				</div>
 			</div>
 		</div>
 	</section>
