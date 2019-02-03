@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="shortcut icon" type="image/png" href="imagem/icon.png"/>
-	<title>Gilvan Tur</title>
+	<title>Gilvan Tur - Petrolina</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="cache-control"   content="no-cache" />
@@ -56,7 +56,7 @@
 
 			<div class="row" style=" background: linear-gradient(to bottom, rgba(255,0,0,0), rgba(255,0,0,0),  rgba(255,0,0,0) ,rgba(250,128,38,0.5));">
 				<div class="col-sm" style="padding: 5%; margin: 5px; overflow: hidden; ">
-					<p class="intro"> GilvanTurismo, tem experiência, qualidade, referência e credibilidade. Há 10 anos no mercado, tendo a excelência no atendimento como lema, a empresa presta serviços de transporte tanto para pessoa física quanto jurídica, dispondo de carro executivo (Sprinter) equipado com ar-condicionado, tv, bancos reclináveis e outros acessórios, dentro das especificações exigidas pelos órgãos competentes para o prazer, conforto e segurança dos passageiros.</p>
+					<p class="intro"> GilvanTur, tem experiência, qualidade, referência e credibilidade. Há 10 anos no mercado, tendo a excelência no atendimento como lema, a empresa presta serviços de transporte tanto para pessoa física quanto jurídica, dispondo de carro executivo (Sprinter) equipado com ar-condicionado, tv, bancos reclináveis e outros acessórios, dentro das especificações exigidas pelos órgãos competentes para o prazer, conforto e segurança dos passageiros.</p>
 					<p class="intro" style="text-align: center;">
 						<a data-toggle="modal" data-target='#veiculos' href="#"><button class="botao-ini btn btn-light">CONHEÇA A NOSSOS VEÍCULOS</button></a>
 					</p>
