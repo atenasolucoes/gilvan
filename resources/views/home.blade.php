@@ -56,7 +56,7 @@
 
 			<div class="row" style=" background: linear-gradient(to bottom, rgba(255,0,0,0), rgba(255,0,0,0),  rgba(255,0,0,0) ,rgba(250,128,38,0.5));">
 				<div class="col-sm" style="padding: 5%; margin: 5px; overflow: hidden; ">
-					<p class="intro"> GilvanTur, tem experiência, qualidade, referência e credibilidade. Há 10 anos no mercado, tendo a excelência no atendimento como lema, a empresa presta serviços de transporte tanto para pessoa física quanto jurídica, dispondo de carro executivo (Sprinter) equipado com ar-condicionado, tv, bancos reclináveis e outros acessórios, dentro das especificações exigidas pelos órgãos competentes para o prazer, conforto e segurança dos passageiros.</p>
+					<p class="intro"> Gilvan Tur, tem experiência, qualidade, referência e credibilidade. Há 10 anos no mercado, tendo a excelência no atendimento como lema, a empresa presta serviços de transporte  e locação de veículos tanto para pessoa física quanto jurídica, dispondo de carros equipados com ar-condicionado, bancos reclináveis e outros acessórios, dentro das especificações exigidas pelos órgãos competentes para o prazer, conforto e segurança dos passageiros.</p>
 					<p class="intro" style="text-align: center;">
 						<a data-toggle="modal" data-target='#veiculos' href="#"><button class="botao-ini btn btn-light">CONHEÇA A NOSSOS VEÍCULOS</button></a>
 					</p>
@@ -90,10 +90,10 @@
 							<div class="col-sm-6 text-center"><img src="imagem/veiculos/microonibus.png" style="width: 100%; ">
 								<p><h4>Microônibus</h4></p>
 							</div>
-								<div class="col-sm-6 text-center"><img src="imagem/veiculos/fiat_ducato.png" style="width: 100%; ">
+							<div class="col-sm-6 text-center"><img src="imagem/veiculos/fiat_ducato.png" style="width: 100%; ">
 								<p><h4>Fiat Ducato</h4></p>
 							</div>
-								<div class="col-sm-6 text-center"><img src="imagem/veiculos/renault_fluence.png" style="width: 100%;">
+							<div class="col-sm-6 text-center"><img src="imagem/veiculos/renault_fluence.png" style="width: 100%;">
 								<p><h4>Renault Fluence</h4></p>
 							</div>
 							<div class="col-sm-6 text-center"><img src="imagem/veiculos/onibus.png" style="width: 100%;">
@@ -124,32 +124,32 @@
 			<h3>Serviços</h3>
 		</div>
 		<div class="container" style="text-align: justify;">
-			<p>A Gilvan Tur possui um amplo serviço de traslados, englobando os principais meios de transporte, para assegurar que todos os seus clientes cheguem aonde querem, na hora em que precisam.
+			<p>A Gilvan Tur possui um amplo serviço de translado, englobando os principais meios de transporte, para assegurar que todos os seus clientes cheguem aonde querem, na hora em que precisam.
 				Com uma operação logística detalhada, o serviço é oferecido na modalidade regular ou privativa, com comodidade e segurança.
-			Gilvan Tur atua com locação de veículos, entre eles carros, vans, doblôs, ônibus e micro-ônibus. Atendemos clientes e localidades em diversos estados. Pernambuco: Petrolina, Ouricuri, Salgueiro, Araripina, Trindade. Bahia: Juazeiro, Semhor do Bonfim, Casa Nova, Sobradinho, Remanso, Curaçá etc. Piauí: São Raimundo Nonato, Outras localidades.  Entre em contato conosco e viaje com quem tem tradição em boas vindas. </p>
-		</div>
-		
-		<div class="row" style="margin: 0 auto;">
+				Gilvan Tur atua com locação de veículos, entre eles carros, vans, doblôs, ônibus e micro-ônibus. Atendemos clientes e localidades em diversos estados.<b> Pernambuco:</b> Petrolina, Ouricuri, Salgueiro, Araripina, Trindade. <b>Bahia:</b> Juazeiro, Senhor do Bonfim, Casa Nova, Sobradinho, Remanso, Curaçá etc.<b> Piauí:</b> São Raimundo Nonato, Outras localidades.  Entre em contato conosco e viaje com quem tem tradição em boas vindas. </p>
+			</div>
 
-			<div class="col-sm tipo-servico"  >
-				<div class="img-servico" data-toggle="modal" data-target="#viagens" style="cursor: pointer;">
-					<img src="imagem/servicos/turismo.jpg" alt="Turismo">
+			<div class="row" style="margin: 0 auto;">
+
+				<div class="col-sm tipo-servico"  >
+					<div class="img-servico" data-toggle="modal" data-target="#viagens" style="cursor: pointer;">
+						<img src="imagem/servicos/turismo.jpg" alt="Turismo">
+					</div>
+					<p><h4>Viagens e Turismo</h4></p>
+
 				</div>
-				<p>Viagens e Turismo</p>
-				
-			</div>
-			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#transfer" style="cursor: pointer;">
-				<div class="img-servico" >
-					<img src="imagem/servicos/transfer.jpg" alt="Transfer - Translado">
+				<div class="col-sm tipo-servico" data-toggle="modal" data-target="#transfer" style="cursor: pointer;">
+					<div class="img-servico" >
+						<img src="imagem/servicos/transfer.jpg" alt="Transfer - Translado">
+					</div>
+					<p><h4>Transfer</h4></p>
 				</div>
-				<p>Transfer</p>
-			</div>
-			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#eventos" style="cursor: pointer;"  >
-				<div class="img-servico" >
-					<img src="imagem/servicos/passeios.jpg" alt="Eventos">
+				<div class="col-sm tipo-servico" data-toggle="modal" data-target="#eventos" style="cursor: pointer;"  >
+					<div class="img-servico" >
+						<img src="imagem/servicos/passeios.jpg" alt="Eventos">
+					</div>
+					<p><h4>Eventos e Passeios</h4></p>
 				</div>
-				<p>Eventos e Passeios</p>
-			</div>
 		<!--	<div class="col-sm tipo-servico"  >
 				<div class="img-servico" >
 					<img src="imagem/servicos/passeios.jpg" alt="passeios">
@@ -201,12 +201,12 @@
 
 					<!-- Modal body -->
 					<div class="modal-body">
-					
-						<p>
-						Nossos serviços se destacam pelo compromisso e pontualidade em oferecer segurança para os clientes. Nossos veículos são totalmente climatizados e em perfeito estado para transportar todos os passageiros com conforto, na qual, são conduzidos por motoristas com experiência e devidamente uniformizados a desempenhar um melhor atendimento possível.
-						<br><br>
 
-Transfer local: translado para hotel, aeroporto, Shopping, restaurantes e bares.</p>
+						<p>
+							Nossos serviços se destacam pelo compromisso e pontualidade em oferecer segurança para os clientes. Nossos veículos são totalmente climatizados e em perfeito estado para transportar todos os passageiros com conforto, na qual, são conduzidos por motoristas com experiência e devidamente uniformizados a desempenhar um melhor atendimento possível.
+							<br><br>
+
+						Transfer local: translado para hotel, aeroporto, Shopping, restaurantes e bares.</p>
 					</div>
 
 					<!-- Modal footer -->
@@ -223,17 +223,17 @@ Transfer local: translado para hotel, aeroporto, Shopping, restaurantes e bares.
 
 					<!-- Modal Header -->
 					<div class="modal-header">
-						<h4 class="modal-title">Tranfer</h4>
+						<h4 class="modal-title">Eventos e Passeios</h4>
 						<button type="button" class="close" data-dismiss="modal">&times;</button>
 					</div>
 
 					<!-- Modal body -->
 					<div class="modal-body">
-					
+
 						<p>
-						O serviço Gilvan tur atua com um sistema informatizado, atuamos no desenvolvimento de Logistica de locação de veículos. Serviços especializados em eventos de shows Petrolina, Juazeiro e cidades próximas,passeios nas vinícolas no Vale do São Francisco, no Rio das pedrinhas, rodeadouro etc, eventos particulares. 
-<br><br>
-O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qualquer encontro especializado através de uma análise de viabilidade do evento, de forma a oferecer um preço justo que atenda todas as demandas dentro dos serviços que oferecemos.</p>
+							Gilvan tur atua com um sistema informatizado,  no desenvolvimento de Logistica de locação de veículos. <br><br> Serviços especializados em eventos particulares, shows, passeios nas vinícolas no Vale do São Francisco e ilhas.
+							<br><br>
+						O nosso dia a dia, credencia-nos com eficiência e pontualidade de qualquer encontro especializado através de uma análise de viabilidade do evento, de forma a oferecer um preço justo que atenda todas as demandas dentro dos serviços que são dispostos.</p>
 					</div>
 
 					<!-- Modal footer -->
@@ -387,7 +387,7 @@ O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qual
 		</div>
 		<div class="col-sm-6" style="text-align: right;">
 			Entre em contato agora mesmo!
-			contato@gilvantur.com
+			
 		</div>
 
 	</div>
@@ -405,15 +405,15 @@ O nosso dia a dia, credencia-nos a oferecer e eficiência e pontualidade de qual
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5c4ef68dab5284048d0f39d0/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+	(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/5c4ef68dab5284048d0f39d0/default';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+	})();
 </script>
 <!--End of Tawk.to Script-->
 
