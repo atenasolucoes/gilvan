@@ -132,19 +132,19 @@
 		<div class="row" style="margin: 0 auto;">
 
 			<div class="col-sm tipo-servico"  >
-				<div class="img-servico" data-toggle="modal" data-target="#viagens" >
+				<div class="img-servico" data-toggle="modal" data-target="#viagens" style="cursor: pointer;">
 					<img src="imagem/servicos/turismo.jpg" alt="Turismo">
 				</div>
 				<p>Viagens e Turismo</p>
 				
 			</div>
-			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#transfer" >
+			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#transfer" style="cursor: pointer;">
 				<div class="img-servico" >
 					<img src="imagem/servicos/transfer.jpg" alt="Transfer - Translado">
 				</div>
 				<p>Transfer</p>
 			</div>
-			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#eventos"  >
+			<div class="col-sm tipo-servico" data-toggle="modal" data-target="#eventos" style="cursor: pointer;"  >
 				<div class="img-servico" >
 					<img src="imagem/servicos/passeios.jpg" alt="Eventos">
 				</div>
