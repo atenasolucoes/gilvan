@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-	return view('home');
+	return view('index');
 });
 
 Route::get('/painel', function () {
@@ -20,9 +20,11 @@ Route::get('/painel', function () {
 });
 
 
+Auth::routes();
 
+Route::get('/home', 'HomeController@index')->name('home');
 
+Auth::routes();
 
-
-
-
+Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/images', 'HomeController@images')->name('images');
