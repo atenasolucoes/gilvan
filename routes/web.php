@@ -14,7 +14,7 @@
 Route::get('/', 'HomeController@home');
 
 Route::get('/painel', function () {
-	return view('login');
+	return view('auth.login');
 });
 
 
