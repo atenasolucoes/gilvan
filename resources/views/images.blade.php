@@ -23,6 +23,7 @@
                         @foreach($fotos as $foto)
                         <a href="/images" class="col-sm-4 text-center " style="border: 1px solid gray">
                             <div style="padding-top: 20px;">
+                            <p>Imagem {{$foto->id}}</p>
                                 <img src='/galeria/{{$foto->imagem}}' alt="" width="100px;" height="75px;">
                             </div>
                             <hr>
