@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-	return view('index');
-});
+Route::get('/', 'HomeController@home');
 
 Route::get('/painel', function () {
 	return view('login');
@@ -28,3 +26,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/images', 'HomeController@images')->name('images');
+Route::post('/trocar', 'HomeController@trocar')->name('trocar');

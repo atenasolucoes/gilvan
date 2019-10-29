@@ -19,7 +19,7 @@
                             <div>
                                 <img src="/imagem/icones/slide.jpg" alt="" width="100px;">
                             </div>
-
+                            <p>Imagens do Slide</p>
                         </a>
                         
                     </div>
