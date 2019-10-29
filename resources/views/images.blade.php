@@ -23,7 +23,7 @@
                         @foreach($fotos as $foto)
                         <a href="/images" class="col-sm-4 text-center " style="border: 1px solid gray">
                             <div style="padding-top: 20px;">
-                                <img src='{{ url("storage/galeria/{$foto->imagem}") }}' alt="" width="100px;" height="75px;">
+                                <img src='/galeria/{{$foto->imagem}}' alt="" width="100px;" height="75px;">
                             </div>
                             <hr>
                             <form method="post" action="{{route('trocar')}}" enctype="multipart/form-data">

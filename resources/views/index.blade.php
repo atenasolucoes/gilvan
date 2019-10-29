@@ -313,27 +313,13 @@
 					<div class="carousel-item active">
 						<div class="row">
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[0]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[0]->imagem}}' alt="viagens">
 							</div>
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[1]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[1]->imagem}}' alt="viagens">
 							</div>
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[2]->imagem}") }}' alt="viagens">
-							</div>
-
-						</div>
-					</div>
-					<div class="carousel-item">
-						<div class="row">
-							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[3]->imagem}") }}' alt="viagens">
-							</div>
-							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[4]->imagem}") }}' alt="viagens">
-							</div>
-							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[5]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[2]->imagem}}' alt="viagens">
 							</div>
 
 						</div>
@@ -341,13 +327,27 @@
 					<div class="carousel-item">
 						<div class="row">
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[6]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[3]->imagem}}' alt="viagens">
 							</div>
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[7]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[4]->imagem}}' alt="viagens">
 							</div>
 							<div class="galeria col-sm">
-								<img src='{{ url("storage/galeria/{$fotos[8]->imagem}") }}' alt="viagens">
+								<img src='/galeria/{{$fotos[5]->imagem}}' alt="viagens">
+							</div>
+
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="row">
+							<div class="galeria col-sm">
+								<img src='/galeria/{{$fotos[6]->imagem}}' alt="viagens">
+							</div>
+							<div class="galeria col-sm">
+								<img src='/galeria/{{$fotos[7]->imagem}}' alt="viagens">
+							</div>
+							<div class="galeria col-sm">
+								<img src='/galeria/{{$fotos[8]->imagem}}' alt="viagens">
 							</div>
 
 						</div>
